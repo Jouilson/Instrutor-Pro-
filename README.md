@@ -1,2 +1,2 @@
 # Instrutor-Pro-
-App de au
+app de gerenciamento de aulas teóricas e práticas.
